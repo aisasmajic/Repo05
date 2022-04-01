@@ -1,0 +1,8 @@
+function main() {
+    // Only change code below thos line
+    var myString = "FirstLine\n\tSecondLine\n\tThirdLine"
+    // Only change code above this line
+    return myString;
+}
+console.log(main());
+module.exports = main;
